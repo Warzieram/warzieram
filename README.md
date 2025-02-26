@@ -1,5 +1,6 @@
-## Hi there 👋
+## Bonjour ! 👋
 
+Bienvenue sur mon profil github sur lequel vous trouverez principalement plein de projets faisant partie de ma formation au sein de The Hacking Project !
 <!--
 **Warzieram/warzieram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
